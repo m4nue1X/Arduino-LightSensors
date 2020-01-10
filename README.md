@@ -9,7 +9,7 @@ This library provides an easy to use API for Arduino that supports pretty much a
 Dependencies: Arduino-Util
 
 Example:
-~~~~
+~~~~C++
 #include <Si1133.h>
 
 Si1133 light_sensor(Si1133::kSi1133AddrAPinLow);
